@@ -13,9 +13,10 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Git clone this repo or download as .zip `https://github.com/RosieZiutka/rose-pine-polybar.git`
+2. Comment out (using ";;") or delete your current colors in config file.
+3. Add something like following line to your polybar config file: `include-file = ~/Path-to-where-you-downloaded/theme-name.ini`, of course replace those with real path and file names
+**NOTE** It would be good practice if you copied your file to `.config/polybar/` instead of using the path you downloaded.
 
 ## Gallery
 
