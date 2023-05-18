@@ -21,7 +21,11 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine with Polybar](https://github.com/RosieZiutka/rose-pine-polybar/blob/main/rose-pine.png)
+
+![Rosé Pine Moon with Polybar](https://github.com/RosieZiutka/rose-pine-polybar/blob/main/rose-pine-moon.png)
+
+![Rosé Pine Dawn with Polybar](https://github.com/RosieZiutka/rose-pine-polybar/blob/main/rose-pine-dawn.png)
 
 ## Thanks to
 
