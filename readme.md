@@ -5,12 +5,6 @@
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 
-<p align="center">
-    <a href="https://github.com/rose-pine/rose-pine-theme">
-        <img src="https://repository-images.githubusercontent.com/642308741/f853e5b1-2b9e-4b6f-b8bb-3b026da80149" />
-    </a>
-</p>
-
 ## Usage
 
 1. Git clone this repo or download as .zip `https://github.com/RosieZiutka/rose-pine-polybar.git`
